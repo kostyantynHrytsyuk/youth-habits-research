@@ -1,4 +1,6 @@
-# The Final project for an econometric course in UCU Spring'20
+# Analysis of the impact of different health-related habits on the academic results based on complex survey design
+
+## The Final project for an econometric course in UCU Spring'20
 This project dedicated to the analysis of the impact of different health-related habits on the academic results based on complex survey design.
 As a dataset for the project [Young Risk Behavior Survey](https://www.cdc.gov/healthyyouth/data/yrbs/index.htm) was chosen.
 
