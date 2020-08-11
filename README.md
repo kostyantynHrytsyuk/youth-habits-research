@@ -15,3 +15,5 @@ Such types of visualization used:
 
 For hypothesis testing, we conducted t-tests and chi-squared tests.
 Also, linear regressions were applied for modeling relations in visualizations. 
+
+## For launching the project, unpack survey_data.rar to the project directory.
